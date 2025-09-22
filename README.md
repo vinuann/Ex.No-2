@@ -1,6 +1,6 @@
 # Ex.No :2
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
-## Nmae: Vinuthaa NN
+## Name: Vinuthaa NN
 ## Register Number: 212224040362
 ## Date:22-09-2025
 ## AIM
